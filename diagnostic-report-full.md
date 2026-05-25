@@ -97,7 +97,7 @@
 
 | 设置项 | 当前值 | 分析 |
 |--------|--------|------|
-| 桌面壁纸（HKCU\Desktop） | `C:\Users\17225\Desktop\微信图片_20260507203131_1_28.png` | ✅ 正常 |
+| 桌面壁纸（HKCU\Desktop） | `C:\Users\<用户名>\Desktop\***.png`（自定义图片，文件存在） | ✅ 正常 |
 | LockAppAumId | `Microsoft.LockApp_cw5n1h2txyewy!WindowsDefaultLockScreen` | ❌ 已回退默认 |
 | RotatingLockScreenEnabled | 0 | ❌ Windows Spotlight 已关闭 |
 | RotatingLockScreenOverlayEnabled | 0 | ❌ Spotlight 覆盖已关闭 |
@@ -249,4 +249,4 @@ PCI-E ASPM 链路状态 (AC): 0 (关闭) ✅
 ---
 
 *报告完成时间：2026年5月21日 19:00*
-*诊断人：小薯片*
+*诊断人：WorkBuddy AI Assistant*
